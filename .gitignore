@@ -1,0 +1,14 @@
+/build/
+/dist/
+/runtime/
+/.tools/
+/data/
+/logs/
+/records/
+/katago/engine/
+/katago/models/
+/katago/logs/
+/katago/data/
+/katago/*.zip
+*.part
+*.log
